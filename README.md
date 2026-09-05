@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Learning+by+building+%F0%9F%92%BB;Exploring+technology+one+project+at+a+time+%F0%9F%9A%80;Curious%2C+creative%2C+and+always+learning+%F0%9F%8C%B1" alt="Typing Animation">
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=auto" width="65%" />
+
 </div>
 
 ---
@@ -47,6 +51,18 @@ I'm learning by **building projects, experimenting with new ideas, and improving
 </div>
 
 Every project gives me something new to learn — whether that's writing code, solving a problem, or figuring out why something isn't working. 😅
+
+---
+
+## 💭 A Quote I Like
+
+<div align="center">
+
+### _“The important thing is not to stop questioning.”_
+
+**— Albert Einstein**
+
+</div>
 
 ---
 
@@ -94,6 +110,34 @@ This experience helped me understand that building a project isn't only about wr
 <img src="https://img.shields.io/badge/View_My_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
 
 </a>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aaditya-gaire-018b3834a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/aaditya_gaire45/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.facebook.com/aadityagaire45">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="mailto:aadityagaire9@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Discord-aadityag45-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 
 </div>
 
@@ -191,31 +235,9 @@ For now, I'm enjoying the process.
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aaditya-gaire-018b3834a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/aaditya_gaire45/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://www.facebook.com/aadityagaire45">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<a href="mailto:aadityagaire9@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Discord-aadityag45-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=auto" width="100%">
 
 ### 🌱 Still learning. Still building.
 

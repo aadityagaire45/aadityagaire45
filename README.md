@@ -193,8 +193,6 @@ For now, I'm enjoying the process.
 
 # 📫 Connect With Me
 
-# 📫 Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aaditya-gaire-018b3834a/">

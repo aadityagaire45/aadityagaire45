@@ -30,11 +30,11 @@ Outside of technology, I enjoy **chess** and **speedcubing**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git&perline=6" alt="C, Python, Java, HTML, CSS and Git">
+<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,git&perline=6" alt="C, Python, JavaScript, HTML, CSS and Git">
 
 <br><br>
 
-<sub>C • Python • Java • HTML • CSS • Git</sub>
+<sub>C • Python • JavaScript • HTML • CSS • Git</sub>
 
 </div>
 
